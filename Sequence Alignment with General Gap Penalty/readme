@@ -2,7 +2,7 @@ Hadoop implementation of Sequence Alignment with General Gap Penalty
 
 Files:
 1) InputHelper.java
-    a) contains sequenctial implementation of algoritm
+    a) contains sequential implementation of algoritm
     b) random creation of string files
     c) creation of input DP matrix file for hadoop
 
